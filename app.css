@@ -3,16 +3,26 @@ body, html, #container {
 }
 #header {
     color:white
+    background-image: url('https://images.unsplash.com/photo-1471293082634-905c2f92dea8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 #body{
-    background:gray
+    background-image: url('https://images.unsplash.com/photo-1471293082634-905c2f92dea8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 #footer{
-    background:gray
+    background-image: url('https://images.unsplash.com/photo-1471293082634-905c2f92dea8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 #body_content{
-    background:gray
+    background:transparent
 }

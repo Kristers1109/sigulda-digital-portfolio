@@ -7,7 +7,7 @@ $("#header").css("color","white");
     $("#image_container").css("display", "none");
     $("#form_content").css("display", "none");
 
-    $("#header").css("background", "black");
+    $("#header").css("background", "Black");
     $("#header").css("width", "100%");
     $("#header").css("height", "20%");
 
