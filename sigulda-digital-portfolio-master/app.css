@@ -1,0 +1,27 @@
+body, html, #container {
+    height: 100%;
+    background-image: url('george-mastro-fBt9h-mP0_o-unsplash.jpg');
+    
+}
+
+
+* #header {
+    color:white;
+   
+} */
+
+#main-body{
+    background-image: url('george-mastro-fBt9h-mP0_o-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+* #footer{
+    color:transparent
+    
+} */
+
+#body_content{
+    background: transparent; 
+}
